@@ -10,10 +10,10 @@ comments: false
 
 # Picking a Class
 Midgard has eleven classes to pick from, compared to the other realms having tweleve.
-These classes are split into four "base" classes: Viking, Rouge, Mystic, and Seer.
+These classes are split into four "base" classes: Viking, Rogue, Mystic, and Seer.
 
 - Vikings tend towards melee combat, and are less reliant on magic.
-- Rouges have a stealth ability, which is useful for picking off targets.
+- Rogues have a stealth ability, which is useful for picking off targets.
 - Mystics are pure casters, often leaning towards debuffing, pets, or damage.
 - Seers are support classes, with buffs and healing.
 
@@ -57,7 +57,7 @@ Pure shield tank, with access to chainmail armor and a large shield.
 Standard variety of weapons such as Axes, Hammers, Swords. You also get thrown weapons, which can be nice for solo play.
 The large shield lets you defend party members and yourself to a high degree, and due to your high health your likely taking the brunt of the blows in combat.
 
-# The Rouges
+# The Rogues
 ## Hunter
 The archer of Midgard, wearing studded armor and a stealth ability.
 
