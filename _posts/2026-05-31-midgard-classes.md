@@ -20,24 +20,27 @@ These classes are split into four "base" classes: Viking, Rouge, Mystic, and See
 Regardless of which class you choose, you start as the base class until level 5.
 Once you reach level 5, you can go to your actual class trainer to specialize.
 
+This is a quick list to help you pick out a class, and not a guide on their abilites or how to play them.
+I'll continue writing up more specialized guides, and will link them here once I'm done.
+
 # The Vikings
 ## Berserker
 Classic melee, with no castable spells. You will have an instant panic ability, causing you to go berserk for a few seconds. (All hits that land are critical hits)
 
-Has access to Axes, Hammers, Swords, and can dual wield with a dedicated Left Axe. Also has access to a small shield, though this is a questionable decision compared to dual wielding
+Has access to Axes, Hammers, Swords, and can dual wield with a dedicated Left Axe. Also has access to a small shield, though this is a questionable decision compared to dual wielding.
 Overall, you'll do consistently high melee damage, at the tradeoff of only studded armor.
 
 ## Savage
 A more specialized melee character, with access to unique magic called "savagery".
 
 Has access to Axes, Hammers, and Swords, but also to the unique weapon type Hand to Hand, which can dual wield.
-Your Savagery spells, which are instant cast, are short duration buffs. They let you adapt to enemies on the fly, letting you take on tougher enemies. (increased damage, increased attack speed, damage resistances, etc.)
+Your Savagery spells, which are instant cast, are short duration buffs. They let you adapt to enemies on the fly, letting you take on tougher enemies (increased damage, increased attack speed, damage resistances, etc.).
 Similarlly to the Berserker, you can only wear studded armor.
 
 ## Skald
 A necessity for group play, this is a hybrid melee and chanter capable of wearing chainmail armor.
 
-Chants are instant cast buffs that effect your whole group. These include damage resistances, passive health regeneration, bonus melee damage, and the fastest movement speed buff in the realm (known as speed 5)
+Chants are instant cast buffs that effect your whole group. These include damage resistances, passive health regeneration, bonus melee damage, and the fastest movement speed buff in the realm (known as speed 5).
 Your weapons are (yet again) Axes, Hammers, and Swords. You also have access to a small shield, though most players prefer two handed weapons.
 On top of your chants (which you can only have one running at a time), you also have access to some instant spells. These include direct damage, a root (slow enemies down), and a mezz (put enemies to sleep).
 
@@ -68,3 +71,32 @@ Your special critical strikes can do massive damage, which tends to make you a g
 As a bonus, you can climb keep walls in sieges, which can let you kill defenders before the door is opened.
 
 # The Mystics
+## Bonedancer
+A cloth caster, with up to four pets.
+
+Has access to three lines of magic: Bone Warriors, Bone Mystics, and Bone Guardians. These give you different pets with different abilities, as well as companion utility spells.
+Your other spells include direct damage, instant debuffs, roots, damage over time, lifetaps, and various self buffs.
+One of the strongest solo characters in the game, and very serviceable in group play.
+
+## Runemaster
+Another cloth caster, but no pets.
+
+Your spell lines are Runes of Darkness, Runes of Destruction, and Runes of Suppression. You have debuffs, bladeturn (absorbes one melee hit), roots, area of effect damage, special bolt projectiles, and lots of single target damage.
+Can fit a wide variety of roles, leaning into more support, more into debuffs, or more into pure damage. 
+
+## Spiritmaster
+The last cloth caster of Midgard, you get one very strong pet.
+
+The spell lines of choice are Spirit Dimming, Spirit Enhancement, and Spirit Suppression. You can lean into your pet, giving it increasingly strong buffs. Or you can lean into being a spellcaster, with a variety of damage spells.
+One of the damage spells you get is a point blank area of effect damage, called a bomb. This spell is rough to use in PvP, but is one of the best PvE spells in the game (if you have a supporting group that is). In a pinch, you can also heal groupmates.
+
+# The Seers
+## Healer
+Wearing chainmail, this is one of the best classes in the game. You'll heal people. And a bit of everything else.
+
+On top of a variety of heals (single target, group heal, special spread heal, instant heal, instant group heal...), you get access to unique buffs like power regeneration and attack speed. You also get access to a variety of spells for crowd control, such as area of effect stuns, and area of effect mezz. As a tradeoff for being insanely good, it is also a lot to juggle while playing.
+
+## Shaman
+The final class in this list. Has access to chainmail, healing, buffs, and posion.
+
+Your healing is not as strong as the Healer, but your buffs are much stronger. You also get access to disease, both single target and area of effect, which reduces incoming healing by 50%. Other benefits include single target and AoE poison, making this one of the best solo farming characters as well as critical for groups.
